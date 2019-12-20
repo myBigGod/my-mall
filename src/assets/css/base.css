@@ -1,0 +1,6 @@
+@import "./normalize.css";
+
+body,p{
+    margin: 0 0;
+    padding: 0 0;
+}
